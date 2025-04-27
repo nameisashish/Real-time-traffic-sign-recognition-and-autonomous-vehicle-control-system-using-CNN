@@ -81,7 +81,7 @@ Preprocessing includes:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/traffic-sign-recognition-car.git
+git clone https://github.com/nameisashish/traffic-sign-recognition-car.git
 cd traffic-sign-recognition-car
 ```
 
@@ -126,17 +126,13 @@ Run Traffic_Sign_Recognition.ipynb (ensure webcam and Arduino are connected)
 This project is published in:
 > **Multimedia Tools and Applications (MTAP, Springer, Q1 SCI Journal)**  
 > _"Real-Time Traffic Sign Recognition and Autonomous Vehicle Control System Using CNN"_  
-> [DOI: 10.1007/s11042-025-20853-8]
+> [DOI: https://doi.org/10.1007/s11042-025-20853-8]
 
 ---
 
 ## 📸 Screenshots
 
 - Circuit Diagram
-- Live Detection Overlay
-- PWM Signal Plots
-- CNN Model Summary
-- Accuracy & Loss Curves
 
 ---
 
@@ -152,3 +148,9 @@ This project is published in:
 
 **Dr. Girish Kumar N G**  
 Email: [girishkumarng@bit-bangalore.edu.in](mailto:girishkumarng@bit-bangalore.edu.in)
+
+**Ashish Kishore**  
+Email: [ashisha3p@gmail.com](mailto:ashisha3p@gmail.com)
+
+**Aaditya J Krishna**  
+Email: [aadityajagadeeshkrishna@gmail.com](mailto:aadityajagadeeshkrishna@gmail.com)
