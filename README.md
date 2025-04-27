@@ -81,7 +81,7 @@ Preprocessing includes:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/nameisashish/traffic-sign-recognition-car.git
+git clone https://github.com/nameisashish/Real-time-traffic-sign-recognition-and-autonomous-vehicle-control-system-using-CNN.git
 cd traffic-sign-recognition-car
 ```
 
