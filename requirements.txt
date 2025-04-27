@@ -1,0 +1,24 @@
+# Core Libraries
+numpy==1.24.3
+pandas==1.5.3
+
+# Deep Learning
+tensorflow==2.11.0
+keras==2.11.0
+scikit-learn==1.2.2
+
+# Image Processing
+opencv-python==4.7.0.72
+
+# Visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Serial Communication
+pyserial==3.5
+
+# Utility
+pickle-mixin==1.0.2
+
+# Optional but useful
+Pillow==9.5.0
