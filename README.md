@@ -82,7 +82,7 @@ Preprocessing includes:
 
 ```bash
 git clone https://github.com/nameisashish/Real-time-traffic-sign-recognition-and-autonomous-vehicle-control-system-using-CNN.git
-cd traffic-sign-recognition-car
+cd Real-time-traffic-sign-recognition-and-autonomous-vehicle-control-system-using-CNN
 ```
 
 ### 2. Setup Python Environment
